@@ -1,0 +1,8 @@
+/* main navbar */
+.main-nav > a{
+    color: hsl(var(--clr-brown) / .8);
+    text-decoration: none;
+    font-size: var(--fs-300);
+    font-weight: 600;
+}
+
